@@ -1174,7 +1174,7 @@ body {
 
 .topbar::after {
   height: 3px;
-  background: linear-gradient(90deg, var(--brand-green) 0 68%, var(--brand-gold) 68% 84%, var(--brand-red) 84%);
+  background: linear-gradient(90deg, var(--brand-red) 0 38%, var(--brand-green) 38% 68%, var(--brand-red) 68% 100%);
 }
 
 .brand-mark {
@@ -1261,7 +1261,7 @@ body {
 }
 
 .progress-track span {
-  background: linear-gradient(90deg, var(--brand-green) 0 68%, var(--brand-gold) 68% 84%, var(--brand-red) 84%);
+  background: linear-gradient(90deg, var(--brand-red) 0 38%, var(--brand-green) 38% 68%, var(--brand-red) 68% 100%);
 }
 
 .benefit-icon {
@@ -1292,7 +1292,7 @@ body {
 
 .form-panel::before {
   height: 4px;
-  background: linear-gradient(90deg, var(--brand-green) 0 68%, var(--brand-gold) 68% 84%, var(--brand-red) 84%);
+  background: linear-gradient(90deg, var(--brand-red) 0 38%, var(--brand-green) 38% 68%, var(--brand-red) 68% 100%);
 }
 
 .form-header {
